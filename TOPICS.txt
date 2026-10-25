@@ -1,0 +1,14 @@
+cpdaily
+campusphere
+campushoy
+qingjin
+campus
+campus-tools
+student-tools
+check-in
+attendance
+task-management
+task-scheduler
+web-app
+responsive-design
+dark-mode
